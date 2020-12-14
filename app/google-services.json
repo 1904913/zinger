@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303398007610",
+    "project_id": "zinger-d3ca7",
+    "storage_bucket": "zinger-d3ca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303398007610:android:e35b88657f3e64c4859603",
+        "android_client_info": {
+          "package_name": "com.food.ordering.zinger.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303398007610-iufmd54n171gihvfogl807pi26f8lnk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoByg3cSP1xOLA7Lg3SbqK4b_P18WDMyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303398007610-iufmd54n171gihvfogl807pi26f8lnk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
